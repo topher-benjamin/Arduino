@@ -1,0 +1,7 @@
+{
+    "board": "arduino:avr:uno",
+    "programmer": "avrisp",
+    "port": "/dev/tty.usbserial-2130",
+    "sketch": "day11/day11.ino",
+    "output": "day6/day6.hex"
+}

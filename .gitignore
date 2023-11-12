@@ -1,0 +1,15 @@
+# Ignore build files and folders
+build/
+*.hex
+*.elf
+*.bin
+*.map
+
+# Ignore Arduino IDE files
+*.pde
+*.cpp~
+*.h~
+*.DS_Store
+
+# Ignore library files
+/libraries/
